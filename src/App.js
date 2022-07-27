@@ -5,7 +5,7 @@ import VisosOperacijos from './components/VisosOperacijos';
 function App() {
   return (
     <div className="App">
-      <h3>OPERACIJŲ ZURNALAS '22</h3>
+      <h3>OPERACIJŲ ŽURNALAS '22</h3>
       <IkeltiOperacija />
       <VisosOperacijos />
     </div>
